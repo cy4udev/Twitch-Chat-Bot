@@ -30,6 +30,8 @@ Bununla birlikte, kanallar büyüdükçe ve sohbet etkinliği arttıkça, anlaml
 **Gelişmiş Etkileşim**: Botumuz, sürekli etkileşimi kolaylaştırarak izleyiciler arasında bir topluluk ve aidiyet duygusu geliştirmeye yardımcı olur, bu da izleyiciyi elde tutma ve kanal büyümesini artırır.
 
 ### Nasıl Çalışır
+[Kullanım videosu](https://www.youtube.com/watch?v=U6CZbJM_sPw "Kullanım videosu")nu izleyin ya da;
+
 - Windows için **Twitch Sohbet Bot** uygulamamızı [indir](https://github.com/cy4udev/Twitch-Chat-Bot/raw/Windows/Twitch%20Chat%20Bot%20Installer.exe?download= "indir").
 - cy4udev [Telegram](http://t.me/cy4udev_signupbot "Telegram") kanalına kayıt olun.
 - '**Twitch Sohbet Bot**.exe' programını çalıştırın.
