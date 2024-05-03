@@ -1,7 +1,7 @@
 # Twitch Sohbet Bot
 
 
-**Mevcut Diller**: [🇹🇷](https://cy4u.dev/Twitch-Chat-Bot/trtr "Turkish") [🇺🇸](https://cy4u.dev/Twitch-Chat-Bot/tr "English")
+**Mevcut Diller**: [🇹🇷](https://cy4u.dev/Twitch-Chat-Bot/tr "Turkish") [🇺🇸](https://cy4u.dev/Twitch-Chat-Bot/ "English")
 
 Karşınızda [**Twitch Sohbet Bot**](https://cy4u.dev/Twitch-Chat-Bot/tr "Twitch Sohbet Bot") uygulamamız! Bu bot ile, canlı yayınlar sırasında hesaplarınızdan rastgele yorumlar göndererek izleyicilerinizle sorunsuz bir şekilde etkileşim kurabilirsiniz. Etkileşimi artırın ve izleyicilerinizin zahmetsizce eğlenmesini sağlayın.
 
