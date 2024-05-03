@@ -30,7 +30,7 @@ This is where our [**Twitch Chat Bot**](https://cy4u.dev/Twitch-Chat-Bot/ "Twitc
 **Enhanced Interactivity**: By facilitating continuous engagement, our bot helps foster a sense of community and belonging among viewers, leading to increased viewer retention and channel growth.
 
 ### How It Works
-Watch [Usage video](https://www.youtube.com/watch?v=U6CZbJM_sPw "Usage video") or;
+Watch [Usage video](https://www.youtube.com/watch?v=vIOtKpeFRpI "Usage video") or;
 
 - [Download](https://github.com/cy4udev/Twitch-Chat-Bot/raw/Windows/Twitch%20Chat%20Bot%20Installer.exe?download= "Download") **Twitch Chat Bot** for Windows.
 - Sign up [Telegram](http://t.me/cy4udev_signupbot "Telegram") channel.
