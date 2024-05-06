@@ -39,7 +39,8 @@
                 backdrop: `#000 left top no-repeat`,
 			}).then((result) => {
 				if (result.isConfirmed) {
-					window.location.href = window.location.href;
+                    var baseUrl = window.location.origin + window.location.pathname.replace(/\/$/, "");
+                    window.location.href = baseUrl;
 				} else {
 					window.location.href = 'https://cy4u.dev'
 				}
