@@ -9,3 +9,43 @@
     </script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4324710417918482"
      crossorigin="anonymous"></script>
+     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+     <script>
+		function adBlocker() {
+			try {
+				fetch(new Request("https://c.amazon-adsystem.com/aax2/apstag.js", {
+					method: 'HEAD',
+					mode: 'no-cors'
+				})).catch(error => {
+					myPopup();
+				});
+			} catch (e) {
+				myPopup();
+			}
+
+		}
+
+		function myPopup() {
+
+			Swal.fire({
+				title: "AdBlock Detected!",
+				text: "Our website is made possible by displaying ads to our visitors. Please supporting us by whitelisting our website!",
+				icon: "warning",
+				showCancelButton: true,
+				confirmButtonColor: "green",
+				cancelButtonColor: "#d33",
+				confirmButtonText: "Okay, I'll Whitelist!"
+			}).then((result) => {
+				if (result.isConfirmed) {
+					window.location.href = window.location.href;
+				} else {
+					window.location.href = 'https://cy4u.dev'
+				}
+			});
+		}
+
+		adBlocker();
+
+
+	</script>
