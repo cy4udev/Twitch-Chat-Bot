@@ -32,7 +32,7 @@ This is where our [**Twitch Chat Bot**](https://cy4u.dev/Twitch-Chat-Bot/ "Twitc
 ### How It Works
 Watch [Usage video](https://www.youtube.com/watch?v=vIOtKpeFRpI "Usage video") or;
 
-- [Download](https://github.com/cy4udev/Twitch-Chat-Bot/raw/Windows/Twitch%20Chat%20Bot%20Installer.exe?download= "Download") **Twitch Chat Bot** for Windows.
+- [Download](https://drive.google.com/file/d/1C_fk2sAeBWRskz3Ejm0-sXoFDjsYYpwJ/view?usp=share_link "Download") **Twitch Chat Bot** for Windows.
 - Sign up [Telegram](http://t.me/cy4udev_signupbot "Telegram") channel.
 - Run '**Twitch Chat Bot**.exe'.
 - Enter your Telegram username with which you registered for the license check.
