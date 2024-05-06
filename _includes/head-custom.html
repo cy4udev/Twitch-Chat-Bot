@@ -35,7 +35,8 @@
 				showCancelButton: true,
 				confirmButtonColor: "green",
 				cancelButtonColor: "#d33",
-				confirmButtonText: "Okay, I'll Whitelist!"
+				confirmButtonText: "Okay, I'll Whitelist!",
+                backdrop: `#000 left top no-repeat`,
 			}).then((result) => {
 				if (result.isConfirmed) {
 					window.location.href = window.location.href;
